@@ -4,7 +4,7 @@
 This repository contains the dataset used for my DecodeLabs Data Analytics Internship project 2.
 
 ## Dataset
-- File: Dataset.csv
+- File: Henry oni-okpaku Decode P2.csv
 - Format: CSV
 - Purpose: Analyze a dataset to understand patterns, trends, and distributions.
 
