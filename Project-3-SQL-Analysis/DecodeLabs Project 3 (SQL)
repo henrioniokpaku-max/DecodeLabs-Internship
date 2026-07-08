@@ -1,0 +1,54 @@
+# SQL Data Analysis Project
+
+## Overview
+This project demonstrates the use of SQL to extract meaningful insights from a transactional dataset. The analysis focuses on querying data, filtering records, sorting results, grouping data, and performing basic aggregations.
+
+## Objectives
+- Retrieve data using SELECT statements.
+- Filter records using WHERE.
+- Sort records using ORDER BY.
+- Group records using GROUP BY.
+- Perform aggregations using COUNT(), SUM(), and AVG().
+
+## Dataset
+The dataset contains customer order information, including:
+- Order ID
+- Customer ID
+- Product
+- Quantity
+- Unit Price
+- Payment Method
+- Order Status
+- Total Price
+
+## SQL Concepts Used
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- COUNT()
+- SUM()
+- AVG()
+
+## Sample Queries
+Examples of analyses performed include:
+- Viewing all orders
+- Filtering shipped orders
+- Finding high-value orders
+- Counting total orders
+- Calculating total revenue
+- Calculating average order value
+- Summarizing sales by product
+- Summarizing revenue by payment method
+
+## Files Included
+- Dataset.csv
+- Task3_SQL_Queries.sql
+- README.md
+
+## Tools Used
+- MySQL Workbench
+- MySQL Server
+
+## Author
+Henry Oni-okpaku
